@@ -1,0 +1,42 @@
+/* Color Palette
+Primary Color: #E5C86B
+Secondary Color: #FF806C
+Accent
+
+Heading : font-family: 'Old Standard TT', serif;
+
+*/
+
+/*Global or Site Wide*/
+
+body { backgroundL url();
+}
+
+h1, h2 {
+    color: #14CEFF;
+    font-family: 'Old Standard TT', serif;
+    letter-spacing: 1px;
+}
+
+p,blockquote {
+    color: ;
+        font-family: ;
+        line-height: 1.75em;
+    letter-spacing: 1px;
+    text-align: center;
+    
+}
+    
+    
+blockquote: {
+    text-alignL center;
+    font-size: 3em;
+    padding: 1em;
+    
+}
+
+/*images*/
+
+section img {
+widthL 50%
+}
